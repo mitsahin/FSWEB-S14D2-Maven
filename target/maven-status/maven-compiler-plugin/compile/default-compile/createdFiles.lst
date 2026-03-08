@@ -1,0 +1,10 @@
+org\example\model\Carpet.class
+org\example\model\enums\LampType.class
+org\example\Main.class
+org\example\model\Bed.class
+org\example\model\Lamp.class
+org\example\model\Wall.class
+org\example\model\enums\PaintColor.class
+org\example\model\Bedroom.class
+org\example\model\Ceiling.class
+org\example\model\Wardrobe.class
